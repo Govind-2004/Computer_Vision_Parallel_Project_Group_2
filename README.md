@@ -218,11 +218,9 @@ The trained models were used to:
 # Repository Structure
 
 ```text
-Brain_Tumor_MRI_Classification/
-│
+
+
 ├── Brain_Tumor_MRI_Classification.ipynb
-├── brain_tumor_cnn.keras
-├── brain_tumor_vgg16.keras
 ├── README.md
 └── LICENSE
 ```
